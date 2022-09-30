@@ -1,0 +1,13 @@
+UV-A,UV-B,UV-C,V-A,V-B,V-C,V-D,V-E,V-F,B-A,B-B,B-C,YG-A,YG-B,YG-C,YG-D,R-A,R-B,R-C
+BUV737,Alexa Fluor 350,Indo-1(Violet),BV786,BV711,BV650,BV605,Alexa Fluor 430,Alexa Fluor 405,PE Alexa 700,FITC,SSC,PE-Cy7,7AAD,PE-Alexa 594,DsRed,APC-Cy7,Alexa Fluor 680,Alexa Fuor 647
+,DAPI,BUV395,Qdot 800,Qdot 705,Qdot 655,Qdot 605,AmCyan,BV421,PE-Cy5.5,GFP,,PE-Alexa 750,PE-Cy5,PE-Alexa 610,PE,APC-H7,Alexa Fluor 700,APC
+,Hoechst 33258,,,eFluor 700NC,eFluor 650NC,BV570,BV510,Cascade Blue,PerCP,Alexa Fluor 488,,PE Vio770,PE-Alexa 647,PE-mCherry,Alexa 546,Alexa 750,APC-Alexa 680,Alexa 633
+,Indo-1(Blue),,,,,eFluor 605NC,Pacific Orange,CFP,PerCP-Cy5.5,DyLight 488,,,PE-DY647,PE-Texas Red,Alexa 555,APC-Alexa 750,APC-Alexa 700,Cy5
+,Marina Blue,,,,,,Qdot 525,Pacific Blue,PE-Alexa680,CFSE,,,,PI,Cy3,APC-C750,APC-R700,eFluor 670
+,Aqua,,,,,,Qdot 565,LIVE-DEAD Violet,PerCP-eFluor 710,Fluo3M,,,,Texas Red,TRITC,APC-eFlour 780,,eFluor 660
+,LIVE-DEAD Blue,,,,,,V500,V450,,mBanana,,,,Alexa 568,,APC-Vio770,,LIVE-DEAD Far Red
+,,,,,,,Cascade Yellow,BFP,,YFP,,,,Alexa 594,,LIVE-DEAD Near IR,,
+,,,,,,,eFluor 490NC,eFluor 450,,,,,,ECD,,,,
+,,,,,,,Krome Orange,VioBlue,,,,,,mCherry,,,,
+,,,,,,,Lucifer Yellow,,,,,,,Mitotracker,,,,
+,,,,,,,VioGreen,,,,,,,LIVE-DEAD Red,,,,
